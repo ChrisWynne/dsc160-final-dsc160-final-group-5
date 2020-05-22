@@ -14,17 +14,24 @@ Project Team Members:
 
 (10 points) 
 
-For the project proposal, please write a short abstact addressing the questions below. You need to replace the entire contents of this section with one to two paragraphs addressing the following:
+Our concept revolves around training a GPT-2 model on Reddit comments from conflicting political subreddits to possibly create a centrist view of politics. We’ll be using OpenAIs pretrained GPT2 model as a base, as well as use Pushshift for scraping from Reddit. Our training data will be sourced from subreddits on Reddit of conflicting political ideals, such as r/Republican and r/democrats. After training, we hope that our system will combine the views found in both polar different subreddits and somehow come out as a centrist view on the political views mentioned.
 
-- What is your concept for a generative art project? 
-- What methods/networks/techniques will you employ (include links to technical precedents/code bases)
-- What training data (if any) will you use for your project? 
-- What kind of results do you hope that your system will produce?
-- How will you present your result/what form will your output take?
-- What if any challenges to you think may arise as you are working with this?
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
-- List three papers / art projects that are references for this work.
+We’ll generate text for thread names and comments and then post them onto Reddit to evaluate how they fare quantitatively in regards to upvotes, downvotes, and overall thread activity. We anticipate running into issues when posting our outputs to Reddit subreddits as the results could be construed as satire and may get the bot banned. To extend on ideas from lectures, our project will feed our outputs back into r/PoliticalDiscussion and see what kind of political bias is generally perceived. We believe our project is interesting because it will show what happens when you combine two polar opposite political views. 
+
+We’ll be referencing the following papers/ sites in the creation of our project:
+
+How to use GPT-2
+https://www.gwern.net/GPT-2
+
+Article about bots used in politics:
+https://www.tandfonline.com/doi/full/10.1080/19331681.2018.1448735
+
+Article about bots posing as humans:
+https://www.topbots.com/can-bots-manipulate-public-opinion/
+
+How GPT-2 performs when trained on Reddit data:
+https://www.reddit.com/r/SubSimulatorGPT2/
+
 
 ## Data and Model
 
