@@ -1,4 +1,4 @@
-# Project Title
+# Something Political
 
 DSC160 Data Science and the Arts - Final Project - Generative Arts - Spring 2020
 
@@ -20,7 +20,7 @@ We’ll generate text for thread names and comments and then post them onto Redd
 
 We’ll be referencing the following papers/ sites in the creation of our project:
 
-How to use GPT-2
+How to use GPT-2:
 https://www.gwern.net/GPT-2
 
 Article about bots used in politics:
