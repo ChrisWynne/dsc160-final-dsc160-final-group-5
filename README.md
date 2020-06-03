@@ -38,7 +38,7 @@ https://www.reddit.com/r/SubSimulatorGPT2/
 (10 points) 
 
 In the final submission, this section will describe both the data you use for this project and any pre-existing models/neural nets. For each you should provide the name, a textual description, and a link. If there is a paper (for neural net) link that as well.
-- Such and such Neural Net. The short description of this neural net. 
+- Such and such Neural Net. The short description of this neural net. test
   - [link to code]().
   - [Title of Paper with Link](). 
 - Training data. Short description of training data including bibliographic info. [link to data]().
