@@ -18,9 +18,9 @@ Our concept revolves around training a GPT-2 model on Reddit comments from confl
 
 To present our results, we'll be personally looking at various generated responses from our GPT2 model when trained on left, right, and centrist points of view. Originally, we wanted to post to Reddit to quantitatively identify how well our responses fared among strangers, but given the current complicated political situation we decided against it. Instead, we opted to send prompts and generated responses to people we know and then inform them after the fact that the responses were artificially generated. We believe our project is interesting because it has the potential to show the main talking points of left, right, and centrist political views. 
 
-<font color="green">/*
+<s>/*
 We’ll generate text for thread names and comments and then post them onto Reddit to evaluate how they fare quantitatively in regards to upvotes, downvotes, and overall thread activity. We anticipate running into issues when posting our outputs to Reddit subreddits as the results could be construed as satire and may get the bot banned. To extend on ideas from lectures, our project will feed our outputs back into r/PoliticalDiscussion and see what kind of political bias is generally perceived. We believe our project is interesting because it will show what happens when you combine two polar opposite political views. 
-*/</font>
+*/</s>
 
 We’ll be referencing the following papers/ sites in the creation of our project:
 
