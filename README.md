@@ -87,14 +87,36 @@ Provide an account of individual members and their efforts/contributions to the 
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+Additional Libraries:
+GPT-2 Tool:
+https://github.com/minimaxir/gpt-2-simple
 
+Tensorflow Version:
+1.15
+
+Pushshift API (for Reddit scraping): 
+https://pypi.org/project/psaw/
+
+ - Pandas
+ - Numpy
+ 
+ Additional Notes:
+ For loading a saved local model, you need to have a local version of gpt-2-simple and the local model data. 
+ This model data is too large to fit on the github repo, so we have included a link to a google drive file with both the modified library code and the local models. These files should be in the same parent directory as this repository.
+Here is the link: https://drive.google.com/file/d/11U_56F8S0ZdDexSjvb8Vsgy4CU8Plb9S/view?usp=sharing
 ## Reference
+How to use GPT-2:
+https://www.gwern.net/GPT-2
 
-All references to papers, techniques, previous work, repositories you used should be collected at the bottom:
-- Papers
-- Repositories
-- Blog posts
+Article describing GPT-2 and the tool we used to train it:
+https://minimaxir.com/2019/09/howto-gpt2/ 
+
+Article about bots used in politics:
+https://www.tandfonline.com/doi/full/10.1080/19331681.2018.1448735
+
+Article about bots posing as humans:
+https://www.topbots.com/can-bots-manipulate-public-opinion/
+
+How GPT-2 performs when trained on Reddit data:
+https://www.reddit.com/r/SubSimulatorGPT2/
+
