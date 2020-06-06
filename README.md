@@ -50,16 +50,17 @@ The data we used was scraped from the subreddits r/Republican and r/Democrats. W
 (20 points)
 
 - scraping / preprocessing code: 
+
 This code scrapes reddit posts/comments from the subreddits described above. All necessary install statements are present in the notebook. However, we have included the scraped data in the repo so it is not necessary to run this code. 
 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group-5/blob/master/code/tatami_scraping.ipynb
 
-- training / generative methods code: 
+- training / generative methods code:
+
 This is the code that trains the model and generates the text output (saving to a file). It takes a long time to train the model, but a local model and instructions for how to download/install the necessary libraries in the technical dependencies section at the bottom. However, if training on a GPU on datahub, it only takes around 10 minutes to run. Make sure to set is_local to false
 
 https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group-5/blob/master/code/cwynne_gpt2.ipynb
 
-Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
