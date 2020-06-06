@@ -87,7 +87,7 @@ Provide an account of individual members and their efforts/contributions to the 
 
 ## Technical Notes and Dependencies
 
-# Additional Libraries:
+### Additional Libraries:
 
 GPT-2 Tool:
 https://github.com/minimaxir/gpt-2-simple
@@ -102,9 +102,11 @@ https://pypi.org/project/psaw/
  - Numpy
  
  Additional Notes:
+ 
  For loading a saved local model, you need to have a local version of gpt-2-simple and the local model data. 
  This model data is too large to fit on the github repo, so we have included a link to a google drive file with both the modified library code and the local models. These files should be in the same parent directory as this repository.
 Here is the link: https://drive.google.com/file/d/11U_56F8S0ZdDexSjvb8Vsgy4CU8Plb9S/view?usp=sharing
+
 ## Reference
 How to use GPT-2:
 https://www.gwern.net/GPT-2
