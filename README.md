@@ -41,11 +41,9 @@ https://www.reddit.com/r/SubSimulatorGPT2/
 
 (10 points) 
 
-In the final submission, this section will describe both the data you use for this project and any pre-existing models/neural nets. For each you should provide the name, a textual description, and a link. If there is a paper (for neural net) link that as well.
-- Such and such Neural Net. The short description of this neural net. test
-  - [link to code]().
-  - [Title of Paper with Link](). 
-- Training data. Short description of training data including bibliographic info. [link to data]().
+The data we used was scraped from the subreddits r/Republican and r/Democrats. We scraped posts with more than 5 comments and removed the phrases "deleted" and "I am a bot". This was to help remove irrelevant data to feed to our model, since the out model, the 124M GPT-2 architecture, limits our dataset to 1 MB. We have 3 1-MB training datasets and three different models. One is trained on only data from r/Democrats, one is trained on only data from r/Republicans, and the last is trained on equal amounts of both. We have given these models names as the output they great is "human". Their names are Carlisle (Republican), Creighton(Democrat), and Kuzco(Both).
+  - [https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group-5/tree/master/data/matt_results](training text files).
+  - [https://minimaxir.com/2019/09/howto-gpt2/](article describing GPT-2 and the tool we used to train it). 
 
 ## Code
 
