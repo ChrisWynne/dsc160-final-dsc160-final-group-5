@@ -105,6 +105,7 @@ https://pypi.org/project/psaw/
  
  For loading a saved local model, you need to have a local version of gpt-2-simple and the local model data. 
  This model data is too large to fit on the github repo, so we have included a link to a google drive file with both the modified library code and the local models. These files should be in the same parent directory as this repository.
+ 
 Here is the link: https://drive.google.com/file/d/11U_56F8S0ZdDexSjvb8Vsgy4CU8Plb9S/view?usp=sharing
 
 ## Reference
