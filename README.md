@@ -87,7 +87,8 @@ Provide an account of individual members and their efforts/contributions to the 
 
 ## Technical Notes and Dependencies
 
-Additional Libraries:
+# Additional Libraries:
+
 GPT-2 Tool:
 https://github.com/minimaxir/gpt-2-simple
 
