@@ -49,12 +49,11 @@ The data we used was scraped from the subreddits r/Republican and r/Democrats. W
 
 (20 points)
 
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
+- scraping / preprocessing code: 
+https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group-5/blob/master/code/tatami_scraping.ipynb
 
-- code for data acquisition/scraping
-- code for preprocessing
-- training code (if appropriate)
-- generative methods
+- training / generative methods code: 
+https://github.com/ucsd-dsc-arts/dsc160-final-dsc160-final-group-5/blob/master/code/cwynne_gpt2.ipynb
 
 Link each of these items to your .ipynb or .py files within this seection, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
