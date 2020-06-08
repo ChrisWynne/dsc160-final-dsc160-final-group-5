@@ -138,15 +138,121 @@ Note: I fully support policy changes that will reduce police brutality, and just
 
 <b>Creighton Model Response</b>
 
-[comment] lorem ipsum lorem ipsum
+The model has really locked on to the media and the coronavirus as it seems within the time frame where we scraped comments, the issue of George Floyd and police brutality are a relatively new subject.
+
+For example, this comment doesn’t make much sense regarding the virus as it seems to have come from other comments regarding the media discrediting politicians or public figures however it reflects the general consensus of the democratic subreddit towards the media.
+
+>[comment]I'm not a big fan of the media being so mean and cowardly in their attempts to discredit the virus. The media is a fucking disgrace.</br>
+[comment]There's so much trash in the media</br>
+[comment]I'm just hoping people stop beaming at corrupt media.</br>
+[comment]I'm not a big fan of the media being too soft on Trump</br>
+[comment]The media is just the propaganda machine for corrupt politicians.</br>
+
+While other comments address the police brutality segment :
+
+>[comment]If it weren't for the fact that police are bad[subtext]lmao </br>
+
+And others talk about the virus :
+
+>[comment]Can you imagine what it would have looked like if the authorities had taken those people out?</br>
+[comment]Sounds like the real reason why Coronavirus was a bigger deal.</br>
+I'd love to see more of Coronavirus. I would love to see the United States take a more active role in caring for the sick and dying. </br>
+
+What I notice about these generated comments is that the model seems to pick out important words from the prompt and runs with it without much context being taken into account such as “coronavirus”, “police” and “media”. Clearly the democratic subreddit hates the media and their portrayal of politicians. 
+
+Funnily enough after perusing the original dataset and comparing to the model’s comments certain generated comments call out the virus as a hoax however in the original dataset regarding the coronavirus being a hoax was more of commenters quoting Trump and others who called it a hoax
+
+>[comment]I think Coronavirus is a hoax.</br>
+[comment]Sounds like a hoax.</br>
+[comment]I've been seeing the same people talking about the coronavirus on Reddit</br>
+[comment]How about Coronavirus? Is there another one?</br>
+[comment]I’m not a fan of it.</br>
+[comment]I think there’s a conspiracy here.</br>
+[comment]Right.</br>
+[comment]That's like the democrats saying the government doesn't need to stay open.</br>
+[comment]This is great news. It's a hoax.</br>
+[comment]The coronavirus is another hoax.</br>
+
+We see many comments regarding the bigger more common topics and although there are likely less comments about the protests, these are some of the more coherent responses to the post
+
+>[comment]I'm sorry. I know too. I just hope more people don't go out and go out to protest.</br>
+[comment]I have been coming to this corona for the last few weeks. Just because some people were protesting doesn't mean they are unsafe.</br>
 
 <b>Carlisle Model Response</b>
 
-[comment] lorem ipsum lorem ipsum
+On the other hand, it honestly feels like the Republican subreddit is very self interested and doesn’t seem to be on topic at all compared to the democratic subreddit overall however have similar sentiment towards the media.
+
+>[comment]I think it's time to stop talking about it.  The media isn’t interested in talking about it.  They are focused on their own agendas.  They are willing to talk about the way they want to talk about our own government and what they want to talk about.  It’s not the government that is about to tell them to shut up or to tell them to buy more guns. </br>
+
+However most comment thread devolve into different tangents
+
+>[comment]I'm not a communist</br>
+I'm a socialist</br>
+[comment]I'm not a communist</br>
+I'm a libertarian</br>
+I'm a democrat</br>
+[comment]I don’t think this is the leftist thing to do</br>
+[comment]I'm not a libertarian</br>
+I'm a democrat</br>
+I'm a republican</br>
+I was a leftist when I was a kid. I was really against everything communism was</br>
+[comment]I don't understand why people are so eager to move to the right. It's a huge change for the economy and for the world.</br>
+[comment]I'm not a communist</br>
+I'm a democrat</br>
+I'm a republican</br>
+I'm a democrat</br>
+I'm a republican</br>
+
+>[comment]Trumpism</br>
+[comment]There is absolutely NO reason for Trump to be doing this.</br>
+[comment]The US is a communist state.</br>
+[comment]Trump doesn't want to be visited by the Chinese</br>
+[comment]I don't know how liberals can accept that there is no real economic reason for protesting in the first place.</br>
+I see a lot of power struggles going on in the US right now.</br>
+[comment]I'm a Democrat now and I don't think I'm going to get fat.</br>
+[comment]The left is just like the right.</br>
+
+I don't know if I agree with everything that they say. I do believe that it's a great thing to have a president of the United States. But I don't think that there's any economic reason to protest[comment]I think this is a bigger problem than just protest. It's really a distraction. It's a distraction if you ask me. I don't think people realize how much more people are being oppressed and to get a job and to pay for your health care.
+>[comment]Fuck Trump.</br>
+[comment]The left and the media are both poisonous.</br>
+[comment]I don't know. I think the left is crazy.</br>
+[comment]I don't know. I'm a republican.</br></br>
+[comment]I don't think we all remember the horrors of the Vietnam War.</br>
+[comment]This is the most painful thing I've ever read.</br>
+[comment]I'm glad we can get to the truth and not the political theater.</br>
+[comment]I can't believe people are so focused on trump trump and the American people.</br>
+[comment]I think the media should have charged with covering up the truth and showing the kind of "classy" </br>reporting it is.  If it wasn't for the fact that a number of the people who were charged with the crime aren't like me.
+[comment]I don't want to make the case that trump trump is a criminal. I think this is just a convenient distraction from the actual crime.  The crime was a political term. The politicization of the crime is also a distraction.</br>
+[comment]Personally I don't think this is a scandal. I think trump trump and the American people deserve better than this.</br>
+[comment]It’s laughable how ignorant Americans are.</br>
+
+A lot of the comments end up talking about nothing related to the topics discussed while instead talking about things never mentioned in the original post usually defending or attacking Trump.
 
 <b>Kuzco Model Response</b>
 
-[comment] lorem ipsum lorem ipsum
+The third model feels much like a combination of the two styles of comments obtained from the other two models.
+
+>[comment]Bernie is the best candidate to combat the left</br>
+[comment]The left is gonna shut down the country</br>
+[comment]I just voted for Bernie and I find the protesters to be an enemy of the state</br>
+[comment]No</br>
+[comment]How about we hold those people accountable?</br>
+
+With comments arguing against each other in some threads reflecting the strong opinions of those on both subreddits. We see strong left and right opinions reflected rather equally across these comments going back and forth in a centrist-like fashion showing that the model managed to adopt these two opposing points of view
+
+>[comment]Communists should have the right to protest. This is why we need to get impeachment hearings.</br>
+[comment]This is why we need to actually make the case that people should be able to protest without being arrested. Why the whole world hates the Republicans</br>
+[comment]That’s why it was a good idea to just keep the mentally ill and mentally ill from protesting.</br>
+[comment]I’m not sure what their problem is with protesting. It's hard to think of a reason to protest when you're being treated badly and some will even go home</br>
+[comment]The left always has a point.</br>
+[comment]The left has a point</br>
+[comment]When you think of protest I don't know how people who disagree with the left are going to be happy to shut down another city.</br>
+[comment]It’s not just protesting. It's an entire right-wing movement. What you're saying is that there's a right-wing movement that is more than willing to literally shut down a city. They're going to try to get it shut down because they prefer them to the left.</br>
+[comment]I'm not a big fan of protesting.</br>
+[comment]How bad is it that there are riots? What is the point of protesting if you're not even being arrested?</br>
+[comment]I love protesting. Protesting is great. I don't have a problem with people protesting. I also don't like how the left is doing it.</br>
+[comment]People need to stop protesting. This is not about us.</br>
+
 
 ## Discussion
 
@@ -171,8 +277,7 @@ Chase Oden: Tested ideas and worked on general direction for project. Assembled 
 
 Matthew Widjaja: 
 
-Chris Wynne: 
-
+Chris Wynne: Got the GPT-2 Pipeline working and trained it on the dataset, as well as helped decide criteria for choosing posts to analyze with the models. Wrote the data, references, and technical dependencies sections.
 
 
 ## Technical Notes and Dependencies
