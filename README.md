@@ -171,7 +171,7 @@ Chase Oden: Tested ideas and worked on general direction for project. Assembled 
 
 Matthew Widjaja: 
 
-Chris Wynne: 
+Chris Wynne: Got the GPT-2 Pipeline working and trained it on the dataset, as well as helped decide criteria for choosing posts to analyze with the models. Wrote the data, references, and technical dependencies sections.
 
 
 
