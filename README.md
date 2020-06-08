@@ -230,7 +230,7 @@ A lot of the comments end up talking about nothing related to the topics discuss
 
 <b>Kuzco Model Response</b>
 
-The third model feels much like a combination of the two styles of comments obtained from the other two models.
+For this prompty, the third model seems to come together and feel like an actual combination of the two styles of comments obtained from the other two models.
 
 >[comment]Bernie is the best candidate to combat the left</br>
 [comment]The left is gonna shut down the country</br>
@@ -256,7 +256,7 @@ With comments arguing against each other in some threads reflecting the strong o
 
 ## Discussion
 
-From our models and the various prompts they trained on we saw results that corresponded with what we expected given the training data of each model. The Democrat Creighton and Republican Carlisle models generated responses that were very much in line with their respective political parties, although we noted that they would express their points rather strongly. The combined Kuzco model unfortunately didn’t cohesively combine the left and right political views, and would instead tend to contradictory views of either side. On occasion the Kuzco model would generate something close to a Centrist view, but would generally view both left and right political parties in distinctly negative lights. 
+From our models and the various prompts they trained on we saw results that corresponded with what we expected given the training data of each model. The Democrat Creighton and Republican Carlisle models generated responses that were very much in line with their respective political parties, although we noted that they would express their points rather strongly. The combined Kuzco model had issues however, as it generally didn’t cohesively combine the left and right political views and would instead tend to voice contradictory views from both side. On occasion the Kuzco model would generate something close to a Centrist view, but would generally view both left and right political parties in distinctly negative lights. 
 
 Our results are culturally innovative because it shows some of the most popular approaches that people of the left and right political sides tend to have towards popular political discussion topics. Our generative approach is different from traditional cultural production because we aren’t just taking opinions off the internet and trying to match them to arbitrary prompts, but we’re synthesizing entirely new opinions based off of a large dataset of a single political ideal. 
 
