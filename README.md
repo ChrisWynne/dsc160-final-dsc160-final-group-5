@@ -230,7 +230,7 @@ A lot of the comments end up talking about nothing related to the topics discuss
 
 <b>Kuzco Model Response</b>
 
-For this prompty, the third model seems to come together and feel like an actual combination of the two styles of comments obtained from the other two models.
+For this prompt, the third model seems to come together and feel like an actual combination of the two styles of comments obtained from the other two models.
 
 >[comment]Bernie is the best candidate to combat the left</br>
 [comment]The left is gonna shut down the country</br>
