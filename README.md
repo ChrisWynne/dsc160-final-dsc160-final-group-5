@@ -271,7 +271,7 @@ In the future we would like to go back and try posting our generated texts to Re
 
 Andy Do: Analysis on the Creighton, Carlisle, and Kuzco model for a given prompt. Worked on filling in the slides for the presentation.
 
-Saieashwar Mukund: 
+Saieashwar Mukund: Helped create scraper to obtain text from top posts and comments from reddit submissions from r/Republican and r/democrats. Also analyzed each model's responses to Prompt 1 and compared them to one another.
 
 Chase Oden: Tested ideas and worked on general direction for project. Assembled powerpoint and the github README.md file. Formatted final video presentation. Analyzed final results in discussion section. 
 
